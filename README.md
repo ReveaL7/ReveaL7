@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on Internet Websites
 
-- 🌱 I’m currently learning PhP
+- 🌱 I’m currently learning PHP
 
 - 👯 I’m looking to collaborate on Web Developing
 
