@@ -50,3 +50,5 @@
 <code><img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vs code"></code>
 <code><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"></code>
 </div>
+
+![](https://discord.c99.nl/widget/theme-3/755430542773583873.png)
