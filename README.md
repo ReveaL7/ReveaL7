@@ -27,6 +27,11 @@
 
 <br/>
 
+
+## 🔧 Discord Status
+![](https://discord.c99.nl/widget/theme-3/755430542773583873.png)
+
+
  <!--- Skills --->
 <h2> 𝙎𝙠𝙞𝙡𝙡𝙨 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <div align="center">
